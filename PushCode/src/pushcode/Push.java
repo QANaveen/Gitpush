@@ -7,7 +7,7 @@ public class Push {
 		
 		
 		
-		System.out.println("Test Automation");
+		
 		
 		System.out.println("Github code push");
 		
