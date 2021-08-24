@@ -16,6 +16,8 @@ public class Push {
 		System.out.println("code push successfully done!");
 		System.out.println("code push successfully done again!");
 		
+		System.out.println("jenkins exploring");
+		
 	}
 
 }
